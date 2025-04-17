@@ -1,6 +1,6 @@
 # Student Manager API
 
-To start using this exampel API
+To start using this example API
  - Clone the repository
  - open the .csproj in visual studio on windows
  - compile and run the project with Ctrl+F5
